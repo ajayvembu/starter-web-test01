@@ -8,5 +8,7 @@ This is an example whow difference parts of the Git Repository
 This is a sample purpose added
 
 ## Deployment
+Added some of the deployment section. More to be added later in the year.
+This is a simple web project. Simple can be added later.
 
 ## How to Contribute
