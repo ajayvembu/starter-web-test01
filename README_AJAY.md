@@ -12,5 +12,6 @@ Added some of the deployment section. More to be added later in the year.
 This is a simple web project. Simple can be added later.
 
 ## How to Contribute
+Please for this repository and then issue Pull request
 
 Git. Training. 2022
