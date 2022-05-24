@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Ajay Vembu ajayrocks90@gmail.com ajayvembu
 
 # THANKS
 
