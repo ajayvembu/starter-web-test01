@@ -16,4 +16,4 @@ This is a simple web project. Simple can be added later.
 ## How to Contribute
 Please for this repository and then issue Pull request
 
-Git. Training. 2022
+Git. Training. 2022. ALL RIGHTS RESERVED..
