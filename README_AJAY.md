@@ -1,7 +1,6 @@
 # Starter Web Project
 This is a simple website project for showing how to use Git & Github togather.
-Adding this line for rebasing example, then 
-more changes from my feature branch too. 
+Updating the line as we are doing an emergency fix.
 
 ## Introduction
 This is an example whow difference parts of the Git Repository
