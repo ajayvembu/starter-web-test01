@@ -16,3 +16,5 @@ This is a simple web project. Simple can be added later.
 Please for this repository and then issue Pull request
 
 Git. Training. 2022. ALL RIGHTS RESERVED..
+
+Podangu Venna added read me
