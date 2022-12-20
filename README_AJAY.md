@@ -18,3 +18,5 @@ Please for this repository and then issue Pull request
 Git. Training. 2022. ALL RIGHTS RESERVED..
 
 Podangu Venna added read me
+
+Adding more details for rebasing
